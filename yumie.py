@@ -115,9 +115,9 @@ logo1 = """
                                                   
 
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓RED-MAFIA            ║║
-║  GITHUB 💝💝💝 RIAZKHAN(RK)   ║ ║
-║ FACEBOOK 💝💝💝RIAZ-HACKER ║ ║
+║ OWNER 💓💓💓Barun waiba            ║║
+║  GITHUB 💝💝💝 YUMIEKILLER  ║ ║
+║ FACEBOOK 💝💝💝Barun waiba ║ ║
 ║  ENJOY 💝💝💝Pak Cloning                ║ ║
 ║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
 ╚══──────────────────────────╝─══╝
@@ -149,12 +149,12 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: RED-MAFIA(R.K)
-Facebook: RIAZ-HACKER
+Owner: Barun 
+Facebook: Barun waiba 
 
 """)
-CorrectUsername = YUMIEKILLER
-CorrectPassword = "YUMIE
+CorrectUsername =yumie1
+CorrectPassword = yumie 
 
 loop = 'true'
 while (loop == 'true'):
